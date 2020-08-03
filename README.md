@@ -2,6 +2,7 @@
 
 Runtimes:
 
-Merge sort: Best case ~ O(nlogn) | Worst ~ O(nlogn) | Space Complex ~ O(n)
+            Best Case      Worst Case     Space 
+Merge sort:  O(nlogn)   |   O(nlogn)   |   O(n)   |
 
-Quick sort: 
+Quick sort:  O(nlogn)   |   O(n^2)     |   O(1)   |
