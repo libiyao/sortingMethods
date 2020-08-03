@@ -1,4 +1,4 @@
-public class Main {
+public class mergeSort {
     public static void main(String[]args) {
         int[] test = {3,1,2,4,5,0,-2};
         System.out.println(test[0]);
