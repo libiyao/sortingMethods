@@ -16,4 +16,4 @@ Runtimes:
 	Insertion sort:    O(n^2)            O(n)          O(n^2)        O(1)       Yes
 	
 	
-	Heap sort:         O(nlogn)        O(nlogn)        O(nlogn)      O(1)       No
+	Heap sort:         O(nlogn)         O(nlogn)        O(nlogn)      O(1)       No
