@@ -1,4 +1,4 @@
-# This repo includes serveral sorting methods such as merge sort, quick sort, and etc.
+# This repo includes several sorting methods such as merge sort, quick sort, and etc.
 
 Runtimes:
 
