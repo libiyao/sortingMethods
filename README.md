@@ -2,15 +2,18 @@
 
 Runtimes:
 
-                  Best Case      Worst Case     Space     Stable
+                     Average Case       Best Case     Worst Case    Space     Stable
             
-	Merge sort:    O(nlogn)       O(nlogn)      O(n)        Yes
+	Merge sort:        O(nlogn)         O(nlogn)       O(nlogn)      O(n)      Yes
 
 
-	Quick sort:    O(nlogn)       O(n^2)        O(1)        No
+	Quick sort:        O(nlogn)         O(nlogn)       O(n^2)        O(1)       No
 	
 	
-	Selection sort:  O(n^2)       O(n^2)        O(1)        No
+	Selection sort:    O(n^2)            O(n^2)        O(n^2)        O(1)       No
 	
 	
-	Insertion sort:  O(n)         O(n^2)        O(1)        Yes
+	Insertion sort:    O(n^2)            O(n)          O(n^2)        O(1)       Yes
+	
+	
+	Heap sort:         O(nlogn)        O(nlogn)        O(nlogn)      O(1)       No
